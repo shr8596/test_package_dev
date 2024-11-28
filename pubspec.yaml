@@ -2,6 +2,7 @@ name: test_package_dev
 description: "for convert number, return day of the week"
 version: 0.0.1
 homepage: "https://github.com/shr8596/test_package_dev"
+publisher: 'https://github.com/shr8596/test_package_dev''
 
 environment:
   sdk: ^3.5.3
